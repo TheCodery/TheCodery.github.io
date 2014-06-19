@@ -1,0 +1,10 @@
+# Site settings
+title: The Codery
+email: bk@thecodery.co
+description: "We build shit on the web."
+baseurl: ""
+url: "http://www.thecodery.co"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
