@@ -1,20 +1,11 @@
 ---
 layout: default
 ---
-<div class='row'>
-  <div class='small-8 small-centered large-uncentered large-3 large-offset-1 columns'>
-    <img id='logo' src='images/tc.png'/>
-  </div>
+<div class='text-center'>
+  <h1>We create projects for the web</h1>
+  <p class='subheader'>The Codery is a digital design agency that helps take your idea to fruition.</p>
 </div>
-<hr>
-<h1 class='center'>We create projects for the web</h1>
-<p class='subheader center'>The codery is a digital design agency that helps take your idea to fruition.</p>
-<div class='row'>
-  {% for project in site.data.projects %}
-    <div class='small-12 medium-6 large-4 columns center'>
-      <a href="{{ project.url }}" target='_blank' alt="{{ project.name }}">
-        <img src="{{ project.image }}"/>
-      </a>
-    </div>
-  {% endfor %}
-</div>
+
+{% include projects.html %}
+<hr id='contact-split'>
+{% include contact_form.html %}

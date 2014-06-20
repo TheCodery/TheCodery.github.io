@@ -1,10 +1,10 @@
-- name:  AmplifyU
-  image: images/au.png
-  url:   http://amplifyu.co
-
 - name:  AMSkier Insurance
   image: images/ams.png
   url:   http://www.amskier.com
+
+- name:  PGLY
+  image: images/pgly.png
+  url:   http://www.pigleyink.com
 
 - name:  Clear Water Initiative
   image: images/cwi.png
@@ -14,10 +14,10 @@
   image: images/concrn.png
   url:   http://www.concrn.com
 
+- name:  AmplifyU
+  image: images/au.png
+  url:   http://amplifyu.co
+
 - name:  MyManual
   image: images/mm.png
   url:   http://mymanual.co
-
-- name:  PGLY
-  image: images/pgly.png
-  url:   http://www.pigleyink.com

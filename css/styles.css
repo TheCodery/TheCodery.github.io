@@ -1,4 +1,31 @@
 .center {
   text-align: center;
-  vertical-align: center;
+}
+
+p, h1, h3 {
+  font-family: 'Lato', sans-serif;
+}
+
+#logo {
+  margin-top: 15px;
+  margin-bottom: -10px;
+}
+
+#container {
+  margin: 0px 25px 10px 25px;
+}
+
+.button {
+  background-color: #000000;
+}
+.button:hover {
+  background-color: #333333;
+}
+
+#contact-split {
+  margin-bottom: 50px;
+}
+
+.project {
+  margin-bottom: 50px;
 }
