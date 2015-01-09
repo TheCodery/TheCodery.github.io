@@ -21,3 +21,15 @@
 - name:  MyManual
   image: images/mm.png
   url:   http://mymanual.co
+
+- name:  GreenGo
+  image: images/greengo.png
+  url:   https://greengo-gardening.herokuapp.com/
+
+- name:  BTM
+  image: images/btm.png
+  url:   http://btmancini.com
+
+- name:  Shredbands
+  image: images/mm.png
+  url:   http://shredbands.com
