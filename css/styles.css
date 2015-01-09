@@ -23,16 +23,20 @@ p, h1 {
   margin-bottom: -10px;
 }
 
+#source-code {
+  margin-bottom: 40px;
+}
+
 .project {
   margin-bottom: 50px;
 }
 
 input, textarea {
-	width: 80%;
-	border-radius:3px;
-	border:1px solid #dadada;
-	margin: 5px auto;
-	padding: 5px;
+  width: 80%;
+  border-radius:3px;
+  border:1px solid #dadada;
+  margin: 5px auto;
+  padding: 5px;
 }
 
 input:focus, textarea:focus{
